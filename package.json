@@ -8,7 +8,7 @@
     "babel": "npx babel ./main.js -o ./bundle.js --presets=@babel/env -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vinicio D. Brejinski",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
